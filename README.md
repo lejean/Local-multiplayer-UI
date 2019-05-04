@@ -1,7 +1,8 @@
 # Local-multiplayer-UI
 A unity project made for navigating the UI in a local multiplayer game. 
 
-I'm working on my own game [Setting Sun](https://www.indiedb.com/games/setting-sun) which contains local coop and needed an interface that can be used by multiple players.
+I'm working on my own game [Setting Sun](https://www.indiedb.com/games/setting-sun) which contains local coop and I needed an interface that can be used by multiple players.
+
 It wasn't easy to find any info on how to make a coop interface work in unity.
 I finally figured it out and wanted to put the project up for everyone struggling with this.
 
