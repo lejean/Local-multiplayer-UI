@@ -14,7 +14,7 @@ There's a **premade example scene called Coop UI navigation** where 4 xbox contr
 
 There's a toggle on the player input for both X_Input and unity's direct input.
 
-Unity's **input manager is also configured for 4 controllers** (all though that's not saying much cause I pretty much had no choice but to use X_Input)
+Unity's **input manager is also configured for 4 controllers** (all though that's not saying much cause I pretty much had no choice but to use X_Input), the InputManager file is in the assets and you need to copy it too your projectSettings folder (THIS WILL OVERRIDE YOUR CURRENT INPUT SETTINGS!!!)
 
 **How to use:**
 - To make this work you need a game object for each player containing the X_input module and the Custom event system.
