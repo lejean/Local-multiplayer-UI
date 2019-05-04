@@ -33,4 +33,4 @@ If you spawn buttons dynamically you'll have to code the connections explicitly.
 - There's a player manager script which can be used to see which controllers are connected and contains code for reassigning controllers when plugging/unplugging.
 It can also be used to spawn players and then manually assign the controllerID/script to the player input and the input module.
 
-![alt text](https://raw.githubusercontent.com/lejean/Local-multiplayer-UI/master/multiplayer%20input.png?token=AA3JP7GLLVEJU2EAAYZD5J24ZXNIK "Screenshot")
+![alt text](https://i.imgur.com/esyF4Ar.png "Screenshot")
