@@ -7,6 +7,7 @@ It wasn't easy to find any info on how to make a coop interface work in unity.
 I finally figured it out and wanted to put the project up for everyone struggling with this.
 
 The project contains a custom input module and custom event system made for 4 controllers using X_input/direct input.
+
 It uses the built-in unity event system so implementing should be easy.
 
 There's a premade example scene called Coop UI navigation where 4 xbox controllers can each navigate their own panel with buttons.
